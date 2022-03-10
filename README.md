@@ -6,6 +6,10 @@
 ### Articles
 - [Homomorphic Encryption](https://towardsdatascience.com/homomorphic-encryption-intro-part-1-overview-and-use-cases-a601adcff06c) : Daniel Huynh's article
 - [CKKS explained](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/) : in depth the Cheon-Kim-Kim-Song (CKKS) scheme
+- [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf) : Christian Reitwießner's zkSNAKRKs explain
+
+### Youtube
+- [Bill Buchanan OBE](https://www.youtube.com/c/BillBuchanan/)
 
 ### Education site
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography) : Computer science Unit: Cryptography
