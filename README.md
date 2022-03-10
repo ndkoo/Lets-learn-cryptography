@@ -10,6 +10,7 @@
 
 ### Youtube
 - [Bill Buchanan OBE](https://www.youtube.com/c/BillBuchanan/)
+- [쑤튜브 정수론 강의모음](https://www.youtube.com/playlist?list=PLdEdazAwz5Q884ImnFH_5yEne0qzGHNhS)
 
 ### Education site
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography) : Computer science Unit: Cryptography
