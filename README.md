@@ -2,7 +2,7 @@
 
 ### Blogs and feeds
 - [aesecurity](https://medium.com/asecuritysite-when-bob-met-alice) : Bill Buchanan's blog.
-- [GIST ZK prove lab](https://jehyukss.wordpress.com/home/) : ZK blog including practical example
+- [GIST ZK prove lab](https://jehyukss.wordpress.com/home/) : ZK blog including practical example (Korean))
 
 ### Articles
 - [Homomorphic Encryption](https://towardsdatascience.com/homomorphic-encryption-intro-part-1-overview-and-use-cases-a601adcff06c) : Daniel Huynh's article
