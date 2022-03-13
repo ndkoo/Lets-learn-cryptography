@@ -9,7 +9,7 @@
 - [CKKS explained](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/) : in depth the Cheon-Kim-Kim-Song (CKKS) scheme
 - [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf) : Christian Reitwießner's zkSNAKRKs explain
 - [Ameer Rosic](https://blockgeeks.com/guides/what-is-zksnarks/) : What are zkSNARKs? The Comprehensive Spooky Moon Math Guide
-- [A Cambrian Explosion of Crypto Proofs](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/) : The purpose of this post is to identify the common denominators of all computational integrity systems and discuss a few differentiating factors.
+- [A Cambrian Explosion of Crypto Proofs](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/) : Identify the common denominators of all computational integrity systems and discuss a few differentiating factors.
 
 
 
