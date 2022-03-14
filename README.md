@@ -10,7 +10,7 @@
 - [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf) : Christian Reitwießner's zkSNAKRKs explain
 - [Ameer Rosic](https://blockgeeks.com/guides/what-is-zksnarks/) : What are zkSNARKs? The Comprehensive Spooky Moon Math Guide
 - [A Cambrian Explosion of Crypto Proofs](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/) : Identify the common denominators of all computational integrity systems and discuss a few differentiating factors.
-
+- [awesome-zk](https://github.com/ventali/awesome-zk/tree/main/zk-intro) : Ventali Tan's introductory article for zero knowledge proof
 
 
 ### Youtube
